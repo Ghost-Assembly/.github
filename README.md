@@ -1,6 +1,6 @@
 # .github
 
-The Ghost Assembly organisation profile.
+The Ghost Assembly organization profile.
 
 `profile/README.md` is what GitHub shows at the top of
 <https://github.com/Ghost-Assembly>. Keep its project list in step with the website
@@ -8,7 +8,7 @@ The Ghost Assembly organisation profile.
 [ghost-assembly.github.io](https://github.com/Ghost-Assembly/ghost-assembly.github.io)).
 
 `profile/banner.png` is built from that repository's `assets/logo-source.png`, with the
-emblem beside the wordmark on the site's background colour:
+emblem beside the wordmark on the site's background color:
 
 ```bash
 S=../ghost-assembly.github.io/assets/logo-source.png
