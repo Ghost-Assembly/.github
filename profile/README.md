@@ -17,8 +17,9 @@
 
 | Project | What it does | |
 | --- | --- | --- |
+| [QuickMusic](https://github.com/Ghost-Assembly/quickmusic) | What is playing, in Quick Settings and the top bar, with play/pause for any MPRIS player. | [Docs](https://ghost-assembly.github.io/quickmusic/) |
 | [QuickRem](https://github.com/Ghost-Assembly/quickrem) | Your saved Remmina connections in the Quick Settings panel. | [Docs](https://ghost-assembly.github.io/quickrem/) |
-| [QuickTiler](https://github.com/Ghost-Assembly/quicktiler) | Keyboard-driven zone tiling, with no overlay and no background work. | [Docs](https://ghost-assembly.github.io/quicktiler/) |
+| [QuickTiler](https://github.com/Ghost-Assembly/quicktiler) | Keyboard-driven zone tiling, with no overlay and no timers. | [Docs](https://ghost-assembly.github.io/quicktiler/) |
 | [QuickTS](https://github.com/Ghost-Assembly/quickts) | Tailscale in Quick Settings: exit nodes, profiles and Taildrop. | [Docs](https://ghost-assembly.github.io/quickts/) |
 
 ### Command-line tools
