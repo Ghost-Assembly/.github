@@ -17,6 +17,7 @@
 
 | Project | What it does | |
 | --- | --- | --- |
+| [QuickClip](https://github.com/Ghost-Assembly/quickclip) | A private clipboard history in Quick Settings, with developer transforms. | [Docs](https://ghost-assembly.github.io/quickclip/) |
 | [QuickMusic](https://github.com/Ghost-Assembly/quickmusic) | What is playing, in Quick Settings and the top bar, with play/pause for any MPRIS player. | [Docs](https://ghost-assembly.github.io/quickmusic/) |
 | [QuickRem](https://github.com/Ghost-Assembly/quickrem) | Your saved Remmina connections in the Quick Settings panel. | [Docs](https://ghost-assembly.github.io/quickrem/) |
 | [QuickTiler](https://github.com/Ghost-Assembly/quicktiler) | Keyboard-driven zone tiling, with no overlay and no timers. | [Docs](https://ghost-assembly.github.io/quicktiler/) |
