@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ghost-assembly.github.io/">
+  <a href="https://ghost-assembly.com/">
     <img src="https://raw.githubusercontent.com/Ghost-Assembly/.github/main/profile/banner.png" alt="Ghost Assembly" width="100%">
   </a>
 </p>
@@ -10,20 +10,27 @@
 </p>
 
 <p align="center">
-  <a href="https://ghost-assembly.github.io/">ghost-assembly.github.io</a>
+  <a href="https://ghost-assembly.com/">ghost-assembly.com</a>
 </p>
 
 ### GNOME Shell extensions
 
-| Project | What it does | |
-| --- | --- | --- |
-| [QuickMusic](https://github.com/Ghost-Assembly/quickmusic) | What is playing, in Quick Settings and the top bar, with play/pause for any MPRIS player. | [Docs](https://ghost-assembly.github.io/quickmusic/) |
-| [QuickRem](https://github.com/Ghost-Assembly/quickrem) | Your saved Remmina connections in the Quick Settings panel. | [Docs](https://ghost-assembly.github.io/quickrem/) |
-| [QuickTiler](https://github.com/Ghost-Assembly/quicktiler) | Keyboard-driven zone tiling, with no overlay and no timers. | [Docs](https://ghost-assembly.github.io/quicktiler/) |
-| [QuickTS](https://github.com/Ghost-Assembly/quickts) | Tailscale in Quick Settings: exit nodes, profiles and Taildrop. | [Docs](https://ghost-assembly.github.io/quickts/) |
+| Project                                                    | What it does                                                                                                                        |                                                |
+| ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| [QuickClip](https://github.com/Ghost-Assembly/quickclip)   | A private clipboard history in Quick Settings, with developer transforms.                                                           | [Docs](https://ghost-assembly.com/quickclip/)  |
+| [QuickMusic](https://github.com/Ghost-Assembly/quickmusic) | What is playing, in Quick Settings and the top bar, with play/pause, previous and next for any MPRIS player.                        | [Docs](https://ghost-assembly.com/quickmusic/) |
+| [QuickRem](https://github.com/Ghost-Assembly/quickrem)     | Your saved Remmina connections in Quick Settings, following the profile folder as it changes.                                       | [Docs](https://ghost-assembly.com/quickrem/)   |
+| [QuickTiler](https://github.com/Ghost-Assembly/quicktiler) | Keyboard-driven zone tiling with a Quick Settings tile, no overlay and no timers.                                                   | [Docs](https://ghost-assembly.com/quicktiler/) |
+| [QuickTS](https://github.com/Ghost-Assembly/quickts)       | Tailscale in Quick Settings: toggle the tailnet, pick an exit node, switch profiles, ping nodes and send or receive Taildrop files. | [Docs](https://ghost-assembly.com/quickts/)    |
 
 ### Command-line tools
 
-| Project | What it does |
-| --- | --- |
-| [awsdiag](https://github.com/Ghost-Assembly/awsdiag) | Fast, compact AWS diagnostic data collection, built to be driven by an AI agent. |
+| Project                                              | What it does                                                                                                                           |
+| ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| [awsdiag](https://github.com/Ghost-Assembly/awsdiag) | Fast, compact AWS diagnostic data collection, built to be driven by an AI agent and rendered into a single self-contained HTML report. |
+
+### Self-hosted services
+
+| Project                                                  | What it does                                                                                              |
+| -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| [GhostDock](https://github.com/Ghost-Assembly/ghostdock) | A self-hosted, mobile-first manager for Docker Compose stacks, with Git-backed deploys and update checks. |
