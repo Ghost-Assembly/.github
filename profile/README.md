@@ -15,13 +15,14 @@
 
 ### GNOME Shell extensions
 
-| Project                                                    | What it does                                                                                                                        |                                                |
-| ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| [QuickClip](https://github.com/Ghost-Assembly/quickclip)   | A private clipboard history in Quick Settings, with developer transforms.                                                           | [Docs](https://ghost-assembly.com/quickclip/)  |
-| [QuickMusic](https://github.com/Ghost-Assembly/quickmusic) | What is playing, in Quick Settings and the top bar, with play/pause, previous and next for any MPRIS player.                        | [Docs](https://ghost-assembly.com/quickmusic/) |
-| [QuickRem](https://github.com/Ghost-Assembly/quickrem)     | Your saved Remmina connections in Quick Settings, following the profile folder as it changes.                                       | [Docs](https://ghost-assembly.com/quickrem/)   |
-| [QuickTiler](https://github.com/Ghost-Assembly/quicktiler) | Keyboard-driven zone tiling with a Quick Settings tile, no overlay and no timers.                                                   | [Docs](https://ghost-assembly.com/quicktiler/) |
-| [QuickTS](https://github.com/Ghost-Assembly/quickts)       | Tailscale in Quick Settings: toggle the tailnet, pick an exit node, switch profiles, ping nodes and send or receive Taildrop files. | [Docs](https://ghost-assembly.com/quickts/)    |
+| Project                                                    | What it does                                                                                                                                                             |                                                |
+| ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------- |
+| [QuickClip](https://github.com/Ghost-Assembly/quickclip)   | A private clipboard history in Quick Settings, with developer transforms.                                                                                                | [Docs](https://ghost-assembly.com/quickclip/)  |
+| [QuickMusic](https://github.com/Ghost-Assembly/quickmusic) | What is playing, in Quick Settings and the top bar, with play/pause, previous and next for any MPRIS player.                                                             | [Docs](https://ghost-assembly.com/quickmusic/) |
+| [QuickRem](https://github.com/Ghost-Assembly/quickrem)     | Your saved Remmina connections in Quick Settings, following the profile folder as it changes.                                                                            | [Docs](https://ghost-assembly.com/quickrem/)   |
+| [QuickSpot](https://github.com/Ghost-Assembly/quickspot)   | A Spotify speaker and playback controls in the GNOME top bar, powered by Spotify Soloist. Play Liked Songs, browse saved playlists, and launch named playlist shortcuts. | [Docs](https://ghost-assembly.com/quickspot/)  |
+| [QuickTiler](https://github.com/Ghost-Assembly/quicktiler) | Keyboard-driven zone tiling with a Quick Settings tile, no overlay and no timers.                                                                                        | [Docs](https://ghost-assembly.com/quicktiler/) |
+| [QuickTS](https://github.com/Ghost-Assembly/quickts)       | Tailscale in Quick Settings: toggle the tailnet, pick an exit node, switch profiles, ping nodes and send or receive Taildrop files.                                      | [Docs](https://ghost-assembly.com/quickts/)    |
 
 ### Command-line tools
 
